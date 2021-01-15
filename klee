@@ -1,0 +1,13 @@
+int main()
+{
+	int a;
+	int b;
+	int sum;
+	printf("ingrese el primer numero a sumar");
+	scanf ("%d",&a);
+	printf("ingrese el primer numero a sumar");
+	scanf ("%d",&b);
+	sum=a+b;
+	printf ("el resultado es :%d",sum);
+	return 0;	
+}
